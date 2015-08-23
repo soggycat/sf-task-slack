@@ -6,5 +6,5 @@ All of the login/API info needs to be hardcoded in.
 Currently using launchd (or cron) to schedule the task to run weekly.
 
 ##Requirements
-[Simple Salesforce](https://github.com/heroku/simple-salesforce)
+[Simple Salesforce](https://github.com/heroku/simple-salesforce)  
 [Slacker](https://github.com/os/slacker)
