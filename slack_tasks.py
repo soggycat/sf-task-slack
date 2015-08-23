@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 from simple_salesforce import Salesforce
 from slacker import Slacker
 
