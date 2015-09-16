@@ -1,3 +1,5 @@
+*I've stopped updating this, but it still serves as an easy way to push tasks from Salesforce to Slack*
+
 # sf-task-slack
 Pushes Salesforce tasks to Slack.
 
